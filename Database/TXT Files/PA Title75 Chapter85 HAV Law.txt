@@ -1,0 +1,533 @@
+CHAPTER 85
+HIGHLY AUTOMATED VEHICLES
+Subchapter
+A. Preliminary Provisions
+B. Highly Automated Vehicles
+C. Personal Delivery Devices
+D. Other Automated Vehicles
+    Enactment.  Chapter 85 was added October 24, 2018, P.L.729, No.117, effective in 180 days.
+SUBCHAPTER A
+PRELIMINARY PROVISIONS
+Sec.
+8501.  Definitions.
+    Subchapter Heading.  The heading of Subchapter A was added November 1, 2020, P.L.1064, No.106, effective in 90 days.
+§ 8501.  Definitions.
+    The following words and phrases when used in this chapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:
+    "Advisory committee."  The Highly Automated Vehicle Advisory Committee established in section 8503 (relating to Highly Automated Vehicle Advisory Committee).
+    "Certificate of compliance."  A certificate authorizing the operation of a highly automated vehicle in accordance with
+Subchapter B (relating to highly automated vehicles).
+    "DDT fallback."  A response by a highly automated vehicle driver or ADS to either perform a DDT or achieve a minimal-risk condition after occurrence of a DDT performance-relevant system failure or upon an operational design domain exit.
+    "Dynamic driving task" or "DDT."  Real-time operational and tactical functions required to operate a motor vehicle on a highway, excluding strategic functions such as trip scheduling and selection of destinations and waypoints, and including, without limitation:
+     (1) Lateral vehicle motion control via steering.
+     (2) Longitudinal motion control via acceleration anddeceleration.
+     (3) Monitoring the driving environment via object andevent detection, recognition, classification and response preparation.
+     (4) Object and event response execution.
+     (5) Maneuver planning.
+     (6) Enhancing conspicuity via lighting, signaling andgesturing.
+    "Highly automated work zone vehicle."  A motor vehicle used in an active work zone as implemented by the department or the Pennsylvania Turnpike Commission, as applicable, for purposes related to the active work zone that is:
+     (1) equipped with an automated driving system; or
+     (2) connected by wireless communication or othertechnology to another vehicle allowing for coordinated or controlled movement.
+    "Minimal risk condition."  A stable, stopped condition to which an individual, a highly automated vehicle driver or ADS may bring a highly automated vehicle after performing a DDT fallback in order to reduce the risk of a crash when a given trip cannot or should not be continued.
+    "Operational design domain" or "ODD."  Operating conditions under which a given ADS is specifically designed to function, including, but not limited to, environmental, geographical and time-of-day restrictions and the requisite presence or absence of certain traffic or highway characteristics.
+    "Platoon."  A group of buses, military vehicles or motor carrier vehicles traveling in a unified manner at electronically coordinated speeds at following distances that are closer than would be reasonable and prudent without the coordination. The term does not include a school bus or a school vehicle. (Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+    2022 Amendment.  Act 130 added the defs. of "certificate of compliance," "DDT fallback," "dynamic driving task" or "DDT," "highly automated workzone vehicle," "minimal risk condition," "operational design domain" or "ODD" and "platoon."
+SUBCHAPTER B
+HIGHLY AUTOMATED VEHICLES
+Sec.
+8502. Highly automated vehicles.
+8503. Highly Automated Vehicle Advisory Committee.
+8504. Certificate of compliance required.
+8505. Powers of department.
+8506. Self-certification.
+8507. Self-certification review.
+8508. Operation requirements.
+8509. Commercial operation.
+8510. Local governance.
+8510.1. Enforcement and penalties.
+8510.2. Regulations and guidelines.
+8510.3. Confidential records.
+8510.4. Appeals.
+8510.5. Interstate agreements.
+    Subchapter Heading.  The heading of Subchapter B was added November 1, 2020, P.L.1064, No.106, effective in 90 days.
+Cross References.  Subchapter B is referred to in sections 102,
+8501 of this title.
+§ 8502.  Highly automated vehicles.
+    The department shall be the lead Commonwealth agency on highly automated vehicles.
+    (a) General rule.--(Deleted by amendment).
+    (b) Highly automated work zone vehicles.--(Deleted by amendment). (Nov. 3, 2022, P.L.1946, No.130, eff. 240 days) § 8503.  Highly Automated Vehicle Advisory Committee.
+    (a) Establishment.--The Highly Automated Vehicle Advisory Committee is established within the department.
+    (b) Composition.--The advisory committee shall consist of the following members:
+     (1) The secretary, who shall serve as the chairperson ofthe advisory committee.
+     (2) The Secretary of Community and Economic Development.
+     (3) The Insurance Commissioner.
+     (4) The Secretary of Labor and Industry.
+     (5) The Commissioner of Pennsylvania State Police.
+     (6) The Chief Executive Officer of the Pennsylvania
+Turnpike Commission.
+     (6.1)  The chairperson of the Pennsylvania Public Utility Commission.
+(7) The chairperson and minority chairperson of the
+Transportation Committee of the Senate.
+(8) The chairperson and minority chairperson of the
+Transportation Committee of the House of Representatives.
+(9) The following members to be appointed by the Governor:
+     (i) One member representing a transit authoritylocated in this Commonwealth.
+     (ii) One member representing an educational orresearch institution located in this Commonwealth engaged in developing highly automated vehicles.
+     (iii) One member representing a technology companyengaged in developing highly automated vehicles.
+     (iv) One member representing a vehicle manufacturerengaged in developing highly automated vehicles.
+     (v) One member representing bicyclists, pedestrians ormotorcyclists in this Commonwealth.
+     (vi) One member representing drivers or consumers inthis Commonwealth.
+     (vii) One member representing a municipality of thisCommonwealth.
+     (viii) One member representing platoon operations.
+     (ix) One member representing an insurance company,association or exchange who is authorized to transact the business of motor vehicle insurance in this Commonwealth.
+     (x) Two members representing different labororganizations in this Commonwealth.
+     (xi) One member representing Pennsylvanians withdisabilities.
+     (xii) One member representing a company engaged in thedevelopment of highly automated motor carrier vehicles.
+    (c) Vacancies.--If a position under subsection (b)(9) has been vacant for 120 days, an appointment shall be made on a rotating basis by the President pro tempore of the Senate and the Speaker of the House of Representatives to fill the vacancy.
+    (d) Alternates.--An advisory committee member under subsection (b)(2), (3), (4), (5), (6), (7) or (8) may designate an alternate to serve in the member's absence. The advisory committee member shall notify the chairperson of the advisory committee in writing of the designation.
+    (e) Alternate for secretary.--The secretary may designate an alternate under subsection (b)(1) who must be a deputy secretary.
+    (f) Terms.--An advisory committee member may be reappointed for additional terms. The terms of advisory committee members appointed by the Governor under subsection (b)(9) shall be three years. An individual appointed to fill a vacancy on the advisory committee under subsection (b) shall serve for the unexpired term and shall be eligible for reappointment.
+    (g) Meetings and expenses.--The following shall apply:
+     (1) The advisory committee shall meet at least three timesannually but may hold additional meetings as are called by the chairperson of the advisory committee. The chairperson shall provide notice at least 14 days in advance for regular meetings and shall provide a minimum of three days' notice for special meetings.
+     (2) A record of meeting attendance shall be maintained,
+and appointed members shall receive written notice if two consecutive meetings are missed. An appointed member under subsection (b)(9) who misses three consecutive meetings without good cause acceptable to the chairperson of the advisory committee may be replaced by the Governor.
+     (3) Minutes of the meetings shall be prepared and filedwith the advisory committee and distributed to each member.
+Each record shall be a matter of public record.
+     (4) An appointed member under subsection (b)(9) may notreceive per diem expenses.
+     (5) The department shall provide appropriate staff supportto enable the advisory committee to properly carry out the advisory committee's functions.
+    (h)  Powers.--The advisory committee shall have the power to advise and consult the secretary on each aspect of highly automated vehicles and platooning in this Commonwealth and may undertake any of the following:
+     (1) Developing technical guidance.
+     (2) Evaluating best practices.
+     (3) Reviewing existing laws, regulations and guidelines.
+     (4) Engaging in continued research and evaluation ofconnected and automated systems technology necessary to ensure safe testing, deployment and continued innovation in this
+Commonwealth.
+     (5) Evaluating accidents, based on summaries prepared bythe department, if the certificate holder or highly automated vehicle driver was determined to be at fault.
+     (6) Evaluating workforce impacts, based on summariesprepared by the department in consultation with the Department of Labor and Industry, and how the Federal Government and the Commonwealth are supporting the workforce as a result of automation.
+    (i) Annual report.--The department shall provide an annual report of the activities of the advisory committee under subsection (h) on the department's publicly accessible Internet website.
+    (j) Special reports.--Beginning as soon as practicable, but no later than 18 months after the effective date of this subsection, the advisory committee shall submit an annual report that evaluates the impact of highly automated vehicles authorized by this chapter on this Commonwealth. The report shall be submitted to the chairperson and minority chairperson of the Transportation
+Committee of the Senate and the chairperson and minority chairperson of the Transportation Committee of the House of
+Representatives and posted on the department's publicly accessible
+Internet website. The report shall evaluate the following with respect to highly automated vehicles authorized by this chapter:
+     (1) Benefits and implications to this Commonwealth'sworkforce.
+     (2) Economic benefits and implications to this
+Commonwealth.
+     (3) Improvements to accessibility and mobility for personswith disabilities.
+     (4) Improvements to mobility options for the generalpublic.
+     (5) Suggested changes to the laws of this Commonwealth.
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+    2022 Amendment.  Act 130 amended subsecs. (b) and (h) and added subsec. (j).
+Cross References.  Section 8503 is referred to in section 8501
+of this title.
+§ 8504.  Certificate of compliance required.
+    (a)  Prohibition.--Except as provided in subsection (b), no person may operate on a highway in this Commonwealth a highly automated vehicle, unless:
+     (1) the firm, copartnership, association, corporation oreducational or research institution is a certificate holder or is a highly automated vehicle driver approved by a certificate holder to operate a highly automated vehicle on behalf of the
+certificate holder; and
+     (2) the highly automated vehicle is operated in accordancewith this title.
+(b)  Applicability.--Subsection (a) shall not apply to:
+     (1) A highly automated work zone vehicle operated inaccordance with section 8531 (relating to highly automated work zone vehicles).
+     (2) A platoon operated in accordance with section 8532
+(relating to platooning).
+     (3) A highly automated vehicle registered in another stateoperating in this Commonwealth under an interstate agreement in accordance with section 8510.5 (relating to interstate agreements).
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8504.
+Cross References.  Section 8504 is referred to in section
+8510.1 of this title.
+§ 8505.  Powers of department.
+    (a) General powers.--To ensure the safety of motorists and the general public, except as permitted under section 8509 (relating to commercial operation), the department has sole regulatory authority over the operation of highly automated vehicles on highways within this Commonwealth consistent with this title and
+Federal law or regulation.
+    (b) Specific powers and duties.--Except as provided for in subsection (c), the department has the following specific powers and duties:
+     (1) By order of the secretary, to prohibit the use of ahighly automated vehicle on a highway where the secretary determines that the operation of the highly automated vehicle would constitute a hazard.
+     (2) To require a certificate holder to self-report to thedepartment an accident in this Commonwealth involving the certificate holder's highly automated vehicle if the accident resulted in bodily injury, serious bodily injury, death or damage to property. The department shall establish the time frame in which to self-report an accident to the department, provided that the time frame is no less than six hours from the occurrence of the accident.
+     (3) To display on the department's publicly accessible
+Internet website, the following:
+     (i) A list of certificate holders, including:
+       (A) Location information where the highlyautomated vehicle is expected to operate.
+       (B) The name and contact information for accidentclaims, including the registered agent for service of process. (ii)  Orders issued by the secretary under paragraph (1). (iii)  Policies, regulations or guidelines issued by the department under this subchapter.
+     (4) By order of the secretary, to collect the followinginformation on a periodic basis:
+     (i) The process an emergency service responder shouldfollow when a highly automated vehicle without a highly automated vehicle driver on board is disabled or involved in an accident.
+     (ii) If applicable, the highly automated vehicledriver information, including name, driver's license number, state or country issued and a summary of any training received to operate the highly automated vehicle.
+     (iii) A description of whether the highly automatedvehicle will transport passengers or goods. If the highly automated vehicle will not be transporting passengers or goods, a description of the service or function being provided by the highly automated vehicle.
+     (iv) Location information, including a list ofmunicipalities where the highly automated vehicle is expected to operate. (5)  To establish policies, regulations or guidelines reasonably necessary to implement this subchapter.
+    (c) Restriction.--Notwithstanding subsection (b), the department is prohibited from establishing a policy, regulation or guideline under this subchapter that:
+     (1) requires a highly automated vehicle driver to obtainanother additional license, approval or similar authorization, other than the appropriate driver's license and endorsement, according to the type and class of motor vehicle equipped with an automated driving system that the highly automated vehicle driver operates;
+     (2) is inconsistent with Federal law, regulation orguidance relating to highly automated vehicles;
+     (3) prohibits or restricts a highly automated vehicledriver from operating a certificate holder's highly automated vehicle to control all or part of the DDT unless the highly automated vehicle driver has been convicted of one or more moving violations within the past 365 days; or
+     (4) prohibits or restricts a certificate holder's highlyautomated vehicle from operating without a highly automated vehicle driver in a manner that is inconsistent with the provisions of section 8508(b) and (e) (relating to operation requirements) and section 8510.1(b) (relating to enforcement and penalties).
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8505.
+§ 8506.  Self-certification.
+    (a) Form.--A self-certification for a certificate of compliance shall be submitted on a form and in a manner determined by the department. The form shall be consistent with this subchapter and may not impose any additional requirements upon the operation of a highly automated vehicle that are inconsistent with this title or Federal law or regulation.
+    (b) Contents of form.--A self-certification form submitted to the department under subsection (a) shall include the following:
+     (1) The name, address and contact information of theapplicant, including a principal point-of-contact for the applicant's accident claims and registered agent for service of process.
+     (2) Vehicle identification information, proof of currentregistration and any other information ordered by the secretary.
+     (3) Proof of insurance as required under section 8508(f)
+(relating to operation requirements).
+     (4) A safety management plan that describes the safetyelements in the development and management of the highly automated vehicle, including the safety elements of the highly automated vehicle's operational design domain, ADS and, if applicable, the highly automated vehicle driver.
+     (5) Nonproprietary documentation submitted to the NationalHighway Traffic Safety Administration for the highly automated vehicle and ADS, including any exemptions received from the National Highway Traffic Safety Administration.
+     (6) Consent to the following:
+     (i) The highly automated vehicle shall operate incompliance with this title and Federal law or regulation.
+     (ii) The jurisdiction of courts of this Commonwealthfor actions arising out of or resulting from any accident involving the highly automated vehicle in this
+Commonwealth.
+     (7) Any information or records deemed reasonably necessaryto aid the department's review of the submitted application and
+for the administration and enforcement of and ongoing compliance with this title.
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8506.
+Cross References.  Section 8506 is referred to in sections
+8507, 8510.1, 8510.3 of this title.
+§ 8507.  Self-certification review.
+    (a) Review and issuance.--The department shall review a selfcertification form submitted under section 8506 (relating to selfcertification). If a self-certification form is not rejected by the department within 30 days of the date of receipt by the department, the self-certification form shall be considered complete and a certificate of compliance shall be issued to the applicant. The department may only reject a self-certification form for any of the following reasons:
+     (1) The form is incomplete.
+     (2) The information contained in the form does not certifythat that the applicant's highly automated vehicle or the automated driving system installed in the highly automated vehicle, as applicable, meets the requirements of this title.
+     (3) The form contains materially inaccurate informationand the applicant is not responsive to clarifying questions.
+    (b) Effective period.--
+     (1) The department may not require renewal of acertificate of compliance issued under this subchapter.
+     (2) An applicant for a certificate of compliance who,prior to the effective date of this section, operated a highly automated vehicle in accordance with automated vehicle testing guidance established by the department prior to the effective date of this section may continue to operate the highly automated vehicle without a certificate of compliance on highways pending the review of a self-certification form if the following criteria are met:
+     (i) The applicant has submitted a self-certificationform for a certificate of compliance to the department.
+     (ii) The department has not denied the selfcertification form.
+     (iii) The department has not issued a notice, inwriting, to the applicant prohibiting continued HAV operation while the department reviews the selfcertification form.
+     (iv) The highly automated vehicle is operated inaccordance with this subchapter.
+    (c) Duty of certificate holders.--A certificate holder shall continue to provide information or records that may be required by the department and reasonably necessary for the administration and enforcement of this subchapter. By order of the secretary, a certificate holder shall provide information or records if there is a specific safety concern. (Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8507.
+§ 8508.  Operation requirements.
+    (a) General rule.--A certificate holder may operate, subject to the operation requirements of this section, a highly automated vehicle with or without a highly automated vehicle driver on a highway in this Commonwealth.
+    (b) Driverless operation.--A highly automated vehicle may operate on a highway without a highly automated vehicle driver, subject to the following:
+     (1) The ADS must be engaged.(2)  The HAV must be capable of operating in compliance with applicable traffic and motor vehicle safety provisions of this title, unless the exemption has been granted by the department.
+     (3)  If a failure of an ADS occurs which renders the ADS unable to perform the entire DDT within the intended ODD, the highly automated vehicle must achieve a minimal risk condition.
+    (c) Operation with driver.--A highly automated vehicle may operate on a highway with a highly automated vehicle driver, subject to the following:
+     (1) A highly automated vehicle driver may control all orpart of a highly automated vehicle's DDT.
+     (2) If a failure of an ADS renders the ADS unable toperform the entire DDT within the intended ODD, the highly automated vehicle or the highly automated vehicle driver must achieve a minimal risk condition.
+    (d) Vehicle markings.--The following shall apply:
+     (1) When required under Federal law or regulation, ahighly automated vehicle shall bear any required manufacturer's certification labels indicating that the highly automated vehicle has been certified to be in compliance with all applicable Federal motor vehicle safety standards, including reference to any exemption granted by the National Highway
+Traffic Safety Administration.
+     (2) In consultation with the State Police, the departmentshall establish standards for an external-facing visual identifier for a certificate holder's highly automated vehicle that provides owner, vehicle and financial responsibility information for reportable and nonreportable accidents.
+    (e) HAV drivers.--A highly automated vehicle driver shall be properly licensed under this title to operate the appropriate type and class of motor vehicle.
+    (f) Insurance and liability.--The following shall apply:
+     (1) A certificate holder of a highly automated vehicleshall maintain the ability to respond in damages for liability on account of accidents arising out of the maintenance or use of a highly automated vehicle and in the minimum amount of
+$1,000,000 per accident for death, bodily injury and property damage to a third party. The financial responsibility required under this subsection shall be evidenced by insurance placed with either an insurer that has obtained a certificate of authority under section 208 of the act of May 17, 1921
+(P.L.789, No.285), known as The Insurance Department Act of
+1921, or a surplus lines insurer eligible under section 1605 of the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, or through any other form, including self-insurance, acceptable to and approved by the department, in consultation with the Insurance Department. Financial responsibility satisfying the requirements of this subsection shall be deemed to satisfy the financial responsibility requirements for a motor vehicle under Chapter
+17 (relating to financial responsibility).
+     (2) The financial responsibility under this subsectionshall be in addition to any financial responsibility requirements under 66 Pa.C.S. Ch. 26 (relating to
+transportation network service) or 53 Pa.C.S. Ch. 57A (relating to transportation network companies) if a highly automated vehicle provides a transportation network service.
+    (g) Low-speed HAVs.--
+     (1) A low-speed HAV may not be operated on a highway witha posted speed limit greater than 35 miles per hour, except when:
+     (i) the low-speed HAV is engaged in a legal crossingof the highway; or
+     (ii) the low-speed HAV is permitted, by order of thesecretary, to be operated on the highway.
+     (2) A low-speed HAV may not be operated on a freeway.
+     (3) As used in this subsection, the term "low-speed HAV"shall mean a highly automated vehicle that is in compliance with the Federal safety standards established in 49 CFR 571.500 (relating to Standard No. 500; Low-speed vehicles), including any exemptions by the National Highway Traffic Safety
+Administration, and designed to be operated without an occupant and used to transport goods. The term does not include a neighborhood electric vehicle and shall be considered by the department as a passenger car or truck for the purposes of title and registration, in accordance with section 1106 (relating to content and effect of certificate of title).
+    (h) HAV title required.--A highly automated vehicle may not operate on a highway in this Commonwealth unless the vehicle is titled as a highly automated vehicle in accordance with section 1106 or under the laws or regulations of another jurisdiction of the United States.
+    (i) Notice.--A certificate holder shall notify in writing the governing body of the municipality of the intent to operate a highly automated vehicle within the boundaries of the municipality at least 10 days prior to commencing operations. (Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8508.
+Cross References.  Section 8508 is referred to in sections
+8505, 8506 of this title.
+§ 8509.  Commercial operation.
+    (a) Motor carriers.--A highly automated vehicle that is also a motor carrier vehicle that requires a commercial driver's license under section 1606 (relating to requirement for commercial driver's license) may operate on highways as a motor carrier with or without a highly automated vehicle driver. A highly automated vehicle operated without a highly automated vehicle driver shall operate under Federal and State law or regulation governing the operation of commercial vehicles and drivers, except provisions that by their nature reasonably apply only to a driver shall not apply to a highly automated vehicle.
+    (b) Applicability of Public Utility Code.--
+     (1) The provisions of 66 Pa.C.S. (relating to publicutilities) shall apply to a certificate holder and the certificate holder's highly automated vehicles, except for provisions that by their nature reasonably apply only to a driver shall not apply to a highly automated vehicle.
+     (2) Except as provided for in paragraph (3), nothingcontained in this subchapter shall be construed to prohibit the
+Pennsylvania Public Utility Commission from requiring an authorization, license or approval from a certificate holder for the operation of a highly automated vehicle if the authorization, license or approval requirement is consistent with 66 Pa.C.S. and does not discriminate against a highly automated vehicle.
+     (3) Notwithstanding paragraph (2), the Pennsylvania PublicUtility Commission may not require an authorization, license or approval from a certificate holder if the certificate holder:
+     (i) is not directly providing a commercial serviceregulated by the Pennsylvania Public Utility Commission; and
+     (ii) is only providing a highly automated vehicle toanother person that holds an authorization, license or approval from the Pennsylvania Public Utility Commission for use in a commercial service regulated by the
+Pennsylvania Public Utility Commission.
+     (4) Except as provided for in subsection (c), atransportation network company licensed by the Pennsylvania Public Utility Commission may utilize a certificate holder's highly automated vehicle to provide transportation network services under 66 Pa.C.S. Ch. 26 (relating to transportation network service).
+    (c) Cities of the first class.--
+     (1) A transportation network company licensed by a parkingauthority of a city of the first class may utilize a certificate holder's highly automated vehicle to provide transportation network services under 53 Pa.C.S. Ch. 57A
+(relating to transportation network companies).
+     (2) The provisions of 53 Pa.C.S. Ch. 57A shall apply to ahighly automated vehicle as described in paragraph (1), except for provisions that by their nature do not apply to a driver of a highly automated vehicle when the highly automated vehicle is operated without a highly automated vehicle driver.
+    (d) Limitation.--The Pennsylvania Public Utility Commission under subsection (b) and a parking authority of a city of the first class under subsection (c) may not require, including as a requirement of an authorization, license or approval:
+     (1) A highly automated vehicle to be operated with ahighly automated vehicle driver.
+     (2) Additional testing requirements for a highly automatedvehicle.
+     (3) Operational standards for a highly automated vehiclethat are substantially dissimilar to operational standards for a motor vehicle operating without an automated driving system.
+     (4) Compliance with additional standards related to ahighly automated vehicle's automated driving system, ODD, DDT or DDT fallback. (e)  Commercial restrictions.--A highly automated vehicle may not:
+(1) be operated as a school bus or school vehicle; or
+(2) carry hazardous materials as defined in section 102
+(relating to definitions) provided, however, that this prohibition does not apply to transporting articles and substances prepared in accordance with 49 CFR 172.315 (relating to limited quantities) or that otherwise do not require placarding pursuant to the Federal Hazardous Materials Regulations (49 C.F.R. Part 100 et seq.), unless the certificate holder receives certification from the department following the promulgation of regulations.
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8509.
+    Cross References.  Section 8509 is referred to in section 8505 of this title.
+§ 8510.  Local governance.
+    (a) Local preemption.--This subchapter preempts and supersedes all ordinances, policies and rules of a local authority relating to highly automated vehicles.
+    (b) Construction.--
+     (1) Nothing in subsection (a) shall be construed toprohibit local authorities on streets or highways within their physical boundaries from the reasonable exercise of their police powers specified in section 6109 (relating to specific powers of department and local authorities), provided that the exercise of the police powers does not specifically burden or discriminate against highly automated vehicles.
+     (2) An ordinance, policy or rule that affects theoperation of the highly automated vehicle as a member of a type or class of vehicle, motor vehicle or traffic shall not be a violation of subsection (a).
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8510.
+§ 8510.1.  Enforcement and penalties.
+(a)  Enforcement of title.--
+     (1) The certificate holder is considered a driver of ahighly automated vehicle for the purpose of assessing compliance under any provision of this title relating to a driver of a vehicle or motor vehicle, subject to the following:
+     (i) If a police officer charges for a violation ofthis title, the police officer shall charge the certificate holder for any applicable offense.
+     (ii) If there is no HAV driver on board, therequirements of this title relating to exhibiting a driver's license and registration card are satisfied if a vehicle registration card is in the highly automated vehicle and physically or electronically available for inspection by a police officer.
+     (2) (Reserved). (b)  Enforcement by department.--
+     (1)  The department may only suspend or limit a certificate of compliance for the following reasons:
+     (i) The certificate holder's highly automated vehicleor automated driving system does not meet the applicable requirements of this subchapter.
+     (ii) The certificate holder submitted materially falseinformation on the self-certification form submitted to the
+     department under section 8506 (relating to selfcertification). (2)  The department may only revoke a certificate of compliance for the following reasons:
+     (i) The certificate holder knowingly operated a highly
+automated vehicle during a time period when the certificate holder's certificate of compliance was suspended under paragraph (1).
+     (ii) The certificate holder knowingly operated ahighly automated vehicle in a manner that violated a certificate of compliance limitation established by the department under paragraph (1).
+     (iii) The certificate holder was convicted of any ofthe following violations with respect to a violation of this title by the certificate holder's highly automated vehicle when the ADS was engaged and no highly automated vehicle driver was on board or in a remote location:
+     (A) Section 3732 (relating to homicide byvehicle).
+     (B) Section 3732.1 (relating to aggravated assaultby vehicle).
+     (3) Nothing contained in this subchapter shall beconstrued to allow the department to suspend, limit or revoke a certificate of compliance except for the instances specifically authorized in paragraphs (1) and (2).
+     (4) The department shall provide a notice and anopportunity for an administrative hearing to a certificate holder whose certificate of compliance is suspended, limited or revoked under paragraphs (1) and (2).
+(c)  Penalties.--
+     (1) Except as provided for in paragraphs (2) and (3), acertificate holder that violates a provision of this subchapter
+shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $25 and not more than $1,000.
+     (2) Except as provided for in paragraph (3), a person thatviolates section 8504 (relating to certificate of compliance required) shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $500.
+     (3) A person that knowingly violates section 8504 andwhose certificate of compliance was suspended or revoked by the department shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $1,000.
+     (4) A certificate holder that violates a provision of thistitle in which the penalty is a misdemeanor or felony shall be subject to 18 Pa.C.S. § 307 (relating to liability of organizations and certain related persons).
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8510.1.
+Cross References.  Section 8510.1 is referred to in section
+8505 of this title.
+§ 8510.2.  Regulations and guidelines.
+    (a) General rule.--In order to facilitate the prompt implementation of this subchapter, the department shall promulgate regulations or publish guidelines that are consistent with:
+     (1) This title.
+     (2) Federal law or regulations relating to highlyautomated vehicles.
+    (b) Temporary regulations.--Notwithstanding any other provision of law, and subject to subsection (d), regulations promulgated by the department under this subchapter during the two years following the effective date of this section shall be deemed temporary regulations, which shall expire no later than three years following the effective date of this section or upon promulgation of final regulations. The temporary regulations shall not be subject to:
+     (1) Section 612 of the act of April 9, 1929 (P.L.177,No.175), known as The Administrative Code of 1929.
+     (2) Sections 201, 202, 203, 204 and 205 of the act of July31, 1968 (P.L.769, No.240), referred to as the Commonwealth Documents Law.
+     (3) Sections 204(b) and 301(10) of the act of October 15,1980 (P.L.950, No.164), known as the Commonwealth Attorneys Act.
+     (4) The act of June 25, 1982 (P.L.633, No.181), known asthe Regulatory Review Act.
+    (c) Publication.--The department shall transmit temporary regulations promulgated under subsection (b) to the Legislative Reference Bureau for publication in the Pennsylvania Bulletin.
+    (d) Consultation and public comment.--Prior to promulgating regulations, temporary regulations or publishing guidelines and policies under this subchapter, the department shall consult with the advisory committee in a public meeting. The department shall conduct a 10-day public comment period before promulgating temporary regulations or publishing guidelines, and the department shall adhere to the public comment period under the Regulatory
+Review Act before promulgating regulations.
+(Nov. 3, 2022, P.L.1946, No.130, eff. imd.)
+2022 Amendment.  Act 130 added section 8510.2.
+§ 8510.3.  Confidential records.
+    (a) General rule.--Information, data or records obtained by the department under this chapter shall not be subject to the act of February 14, 2008 (P.L.6, No.3), known as the Right-to-Know
+Law, if:
+     (1) The information, data or records constitute or reveala trade secret or confidential proprietary information.
+     (2) Disclosure of the information, data or records couldaffect the safe operation of highly automated vehicles.
+    (b) Disclosure.--Except for information, data or records not subject to disclosure under the Right-to-Know Law or under subsection (a), the department shall provide the information in the certificate of compliance, accident information consistent with section 3746 (relating to immediate notice of accident to police department) or the data and information collected under section 8506(b) (relating to self-certification) to any requesting municipality where a highly automated vehicle is operating. (Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8510.3.
+§ 8510.4.  Appeals.
+    A certificate holder may appeal an action taken by the department under this subchapter in accordance with 2 Pa.C.S. Chs.
+5 Subch. A (relating to practice and procedure of Commonwealth agencies) and 7 Subch. A (relating to judicial review of
+Commonwealth agency action).
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8510.4.
+§ 8510.5.  Interstate agreements.
+    (a) Agreements authorized.--The department may negotiate one or more interstate agreements on behalf of the Commonwealth with regulatory agencies of other states for the interstate operation of highly automated vehicles and platoons approved for operation in the Commonwealth under this chapter and for highly automated vehicles and platoons approved for operation in states that are parties to the agreement.
+    (b) Approval required.--An interstate agreement negotiated by the department under subsection (a) shall become effective upon approval by the Governor.
+    (c) Regulations.--The department may promulgate regulations governing the interstate operation of highly automated vehicles and platoons consistent with this chapter and the interstate agreement.
+    (d) Limitation.--The following shall apply:
+     (1) An interstate agreement shall only be approved by theGovernor if permitted under Federal law or regulation and shall be consistent with Federal law or regulation.
+     (2) An interstate agreement shall ensure that every highlyautomated vehicle operated within this Commonwealth under the agreement is insured or self-insured in the minimum amount as required by this subchapter.
+(Nov. 3, 2022, P.L.1946, No.130, eff. 240 days)
+2022 Amendment.  Act 130 added section 8510.5.
+    Cross References.  Section 8510.5 is referred to in section 8504 of this title.
+SUBCHAPTER C
+PERSONAL DELIVERY DEVICES
+Sec.
+8511. Definitions.
+8512. General prohibition.
+8513. Powers of department.
+8514. Application.
+8515. Authorization issuance and renewal.
+8516. Operation.
+8517. Local regulation.
+8518. Equipment.
+8519. Insurance and liability.
+8520. Enforcement.
+8521. Criminal penalties.
+8522. Application of title.
+    Enactment.  Subchapter C was added November 1, 2020, P.L.1064, No.106, effective in 90 days.
+§ 8511.  Definitions.
+    The following words and phrases when used in this subchapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:
+    "Authorized entity."  A person or an educational institution holding a PDD authorization.
+"Municipality."  The term does not include a county.
+"Operational phase."  Phase 1 or phase 2.
+    "PDD authorization."  An authorization issued by the department under section 8515 (relating to authorization issuance and renewal) permitting the operation of a personal delivery device in accordance with this subchapter.
+    "PDD operator."  An employee of an authorized entity permitted by the authorized entity to remotely control, monitor or otherwise operate a personal delivery device on behalf of the authorized entity as provided under this subchapter. The term does not include an individual who requests a delivery or service provided by the personal delivery device or dispatches the personal delivery device.
+    "Pedestrian area."  A sidewalk, crosswalk, safety zone, pedestrian tunnel, overhead pedestrian crossing or similar area for pedestrians.
+    "Phase 1."  The operation of a personal delivery device through a driving system that allows remote or autonomous operation by an authorized entity where the device is controlled remotely and a PDD operator is within 30 feet of the PDD and within the line of sight of the PDD.
+    "Phase 2."  The operation of a personal delivery device through a driving system that allows remote or autonomous operation by an authorized entity where the device is monitored remotely by a PDD operator and the driving system is capable of being controlled and overridden remotely by the PDD operator.
+§ 8512.  General prohibition.
+    No person may operate a personal delivery device on a roadway, or shoulder or berm of a roadway, or in a pedestrian area unless:
+     (1) the person holds a PDD authorization from thedepartment or is a PDD operator; and
+     (2) the personal delivery device is operated in accordancewith this subchapter.
+    Cross References.  Section 8512 is referred to in section 8521 of this title.
+§ 8513.  Powers of department.
+    (a) General powers.--Except as permitted under section 8517 (relating to local regulation), the department shall have general and sole regulatory authority over the operation of personal delivery devices and authorized entities as described in this subchapter to ensure the safe operation of personal delivery devices on roadways, or shoulders or berms of roadways, and in pedestrian areas.
+    (b) Specific powers and duties.--The department shall have the following specific powers and duties:
+     (1) To issue, approve, renew, revoke, suspend, conditionor deny issuance or renewal of PDD authorizations.
+     (2) By order of the secretary, to prohibit the use of apersonal delivery device on any roadway, or shoulder or berm of a roadway, under the jurisdiction of the department where the secretary determines that the operation of the personal delivery device would constitute a hazard.
+     (3) To display, on the department's publicly accessibleInternet website, the following:
+     (i) a list of authorized entities that includes theauthorized operational phase of each authorized entity.
+     (ii) any order issued by the secretary under thissubchapter.
+     (iii) policies or guidelines issued by the departmentconsistent with this subchapter.
+     (4) To require an authorized entity to self-report to thedepartment and the law enforcement agency of the municipality governing the right-of-way containing the pedestrian area or roadway, or shoulder or berm of the roadway, an accident involving any of the authorized entity's personal delivery devices that resulted in bodily injury, death or damage to property within 24 hours of the accident.
+     (5) To establish policies or guidelines consistent withthis subchapter.
+Cross References.  Section 8513 is referred to in sections
+8515, 8520 of this title.
+§ 8514.  Application.
+    (a) Application.--An application for a PDD authorization or renewal application for a PDD authorization shall be on a form and submitted in a manner as determined by the department.
+    (b) Contents of application.--An application submitted to the department under subsection (a) shall include the following:
+     (1) Name, address and contact information of theapplicant.
+     (2) A general operational plan that includes, but is notlimited to, the following:
+     (i) The municipalities in which the applicant intendsto operate personal delivery devices.
+     (ii) The anticipated highways and pedestrian areasthat the applicant's personal delivery devices will be utilized to transport goods and cargo.
+     (iii) A description of the training procedures for PDDoperators.
+     (iv) The manufacturer and model of personal deliverydevices the applicant intends to deploy.
+     (v) A description of how a police officer or otheremergency responder may stop or disable a PDD operated by the applicant.
+     (vi) A description of the cargo or goods the applicantintends to transport.
+     (vii) A proposed schedule for safety and maintenanceinspections of PDDs.
+     (viii) Information regarding the operational phases inwhich the applicant's personal delivery devices are capable of operating.
+     (3) Any information or records deemed reasonably necessaryto aid the department's review of the submitted application and for the administration, enforcement and ongoing compliance with this subchapter.
+     (4) Proof of insurance as required under section 8519
+(relating to insurance and liability).
+     (5) An attestation that the applicant will temporarilycease or restrict the operation of PDDs due to a weather emergency or other hazardous event identified by the department or a municipality.
+     (6) The details of an educational campaign to be employedby the applicant to educate and bring awareness of PDDs to municipalities, motorists and the general public.
+     (7) Information regarding the applicant's accidentprocedure in the event of an accident involving injury to a person or damage to property or an accident causing damage to the personal delivery device. The procedure shall include:
+     (i) duties of the applicant and its PDD operators withrespect to removing the PDD or accident debris from roadways, or shoulders or berms of a roadway, and pedestrian areas of the personal delivery device so as not to impede traffic or pedestrians in the event that the personal delivery device is rendered inoperable or damaged to the extent it cannot be safely operated;
+     (ii) the process where the applicant will exchange, ifnecessary, insurance information to all parties involved in
+the accident within 24 hours of the accident; and
+     (iii) the safety inspection and maintenance protocolsfor personal delivery devices damaged in an accident.
+     (8) A list of unique identification numbers assigned toeach of the applicant's personal delivery devices, which shall be updated prior to an authorized entity operating a PDD not listed in the application.
+     (9) if the application is a renewal application, the
+following information:
+     (i) the total number of trips each personal deliverydevice performed within the previous 12 months; and
+     (ii) a list of accidents resulting in personal injuryor property damage and any violations of this subchapter issued to the authorized entity for a personal delivery device operated by the authorized entity within this Commonwealth in the previous 12 months.
+Cross References.  Section 8514 is referred to in sections
+8515, 8518 of this title.
+§ 8515.  Authorization issuance and renewal.
+    (a) Review of applications and issuance.--The department shall review all applications for a PDD authorization and applications for the renewal of a PDD authorization and may issue an authorization to or renew the authorization of any applicant that:
+     (1) has submitted a completed application;
+     (2) has the ability to comply with the provisions of thissubchapter; and
+     (3) has not knowingly made a false statement of materialfact in the application or has not deliberately failed to disclose any information requested by the department.
+    (b) Authorization period and renewal.--
+     (1) A PDD authorization issued under this subchapter shallbe valid for a period of one year.
+     (2) If the PDD application is not approved by thedepartment within 30 days after receipt of the application, the application shall be deemed approved.
+     (3) An application for the renewal of a PDD authorizationshall be submitted at least 45 days prior to the expiration of the PDD authorization and include an update of the information contained in the initial application for the PDD authorization. A PDD authorization for which a completed renewal application has been received by the department shall continue in effect unless the department sends a written notification to the authorized entity that the department has denied the renewal of the PDD authorization.
+    (c) Duty of authorized entities.--An authorized entity shall have an ongoing duty to provide any information or records that may be required by the department and is reasonably necessary for the administration and enforcement of this subchapter.
+    (d) Applicability.--Except as provided in subsection (e), the following shall not be subject to the act of February 14, 2008
+(P.L.6, No.3), known as the Right-to-Know Law:
+     (1) Information contained in an application for a PDDauthorization or renewal application submitted to the department by an applicant under this section or section 8514
+(relating to application).
+     (2) Additional information requested by the department andsubmitted by an applicant as part of the review of the applicant's application for a PDD authorization or renewal application under this section or section 8514.
+     (3) Information and records submitted by an authorizedentity to the department under this section or section 8514. (e)  Applicability exception.--Subsection (d) shall not apply to the following:
+(1) Information or records submitted to the departmentunder section 8514(b)(2)(i), (ii) or (iv), (4), (8) or (9)(ii).
+(2) Information or records required to be posted on thedepartment's publicly accessible Internet website under section 8513(b)(3)(ii) (relating to powers of department).
+    Cross References.  Section 8515 is referred to in section 8511 of this title. § 8516.  Operation. (a)  Operational phases.--The following shall apply:
+     (1)  Except as permitted under subparagraph (iii), upon the initial issuance of a PDD authorization, an authorized entity shall be limited to phase 1 operation to demonstrate safe operation of personal delivery devices by the authorized entity and its PDD operators, subject to the following:
+     (i) Except as permitted under subparagraph (ii), Thedepartment may not limit an authorized entity to phase 1 operation for less than 90 days and not more than 180 days from the date the PDD authorization was issued, or less than 90 days and not more than 180 days from the date the authorized entity's phase 2 operation was revoked by the department, whichever is applicable.
+     (ii) The department may limit an authorized entity tophase 1 operation for less than 90 days or more than 180 days from the date the PDD authorization was issued, or less than 90 days and not more than 180 days from the date the authorized entity's phase 2 operation was revoked by the department, whichever is applicable, if agreed to by the authorized entity.
+     (iii) The department may exempt an authorized entityfrom phase 1 operations upon initial issuance of a PDD authorization if the authorized entity can certify, to the department's satisfaction, safe PDD operations in the
+Commonwealth or other jurisdictions.
+     (2) The department may authorize, in writing, anauthorized entity to operate personal delivery devices under phase 2 if the authorized entity and its PDD operators have demonstrated the safe operation of personal delivery devices under phase 1 and the department has determined the authorized entity's personal delivery devices can be operated safely under phase 2 and in accordance with this subchapter.
+     (3) Following notice and an opportunity for anadministrative hearing, the department may revoke, in writing, an authorized entity's phase 2 authorization and change the authorized entity's authorized operational phase if the department determines the revocation and change is necessary to ensure public safety and compliance with this subchapter.
+    (b) General operation requirement.--Except as to special operation requirements in subsection (c), An authorized entity and its PDD operators shall operate personal delivery devices in accordance with the provisions of Chapter 35 (relating to special vehicles and pedestrians) applicable to pedestrians.
+    (c) Additional operation requirements.--An authorized entity and its PDD operators when operating a personal delivery device shall:
+     (1) only operate a personal delivery device according tothe operational phase for which the authorized entity has been
+authorized by the department;
+     (2) utilize a pedestrian area when crossing a roadway and,if a pedestrian area is not available or not practicable, only cross the roadway according to policies or guidelines
+established by the department;
+     (3) be prohibited from making a left turn across one ormore lanes of oncoming traffic on a roadway until or unless guidelines or policies are established by the department;
+     (4) utilize the shoulder or berm of a roadway as far aspracticable from the edge of the roadway whenever a shoulder or
+berm is available and its use is practicable;
+     (5) where a shoulder or berm of a roadway is not availableor its use is not practicable, utilize a pedestrian area, if
+available;
+     (6) where neither a pedestrian area nor a shoulder or bermof a roadway is available, operate the personal delivery device as near as practicable to the outside edge of the roadway;
+     (7) yield the right-of-way, or safely navigate around, toall pedestrians and pedalcyclists in a pedestrian area;
+     (8) not transport hazardous materials regulated under 49
+U.S.C. § 5103 (relating to general regulatory authority) and required to be placarded under 49 CFR Pt. 172 Subpt. F
+(relating to placarding);
+     (9) when traveling on a roadway, or shoulder or berm of aroadway, operate the personal delivery device in the same direction as required of other vehicles operated on the
+roadway;
+     (10) not exceed speed limits contained in subsection (d);
+     (11) not operate on a roadway, or shoulder or berm of aroadway, under the jurisdiction of the department where the secretary, by order, has determined the operation to be
+hazardous;
+     (12) not operate on a roadway, or shoulder or berm of aroadway, under the jurisdiction of the department where the posted speed limit is greater than 25 miles per hour, except as permitted in subsection (e);
+     (13) not operate on a local roadway, or shoulder or bermof a local roadway, under the jurisdiction of a municipality where the posted speed limit is greater than 25 miles per hour, except as permitted in section 8517 (relating to local
+regulation);
+     (14) not operate on an interstate highway or freeway;
+     (15) comply with ordinances or resolutions adopted bylocal authorities under section 8517;
+     (16) only operate personal delivery devices that complywith equipment standards established under section 8518
+(relating to equipment); and
+     (17) comply with any other policies or guidelinesestablished by the department consistent with this subchapter. (d)  Speed limit.--A personal delivery device may not exceed 12 miles per hour in a pedestrian area and may not exceed 25 miles per hour on a roadway, or shoulder or berm of a roadway.
+    (e) Exception.--The department may, by order of the secretary, permit the use of a personal delivery device upon a roadway, or shoulder or berm of a roadway, under the jurisdiction of the department where the posted speed limit is greater than 25 miles per hour but not greater than 35 miles per hour.
+    (f) PDD operator requirement.--No PDD operator may operate a personal delivery device on behalf of an authorized entity unless the individual possesses a valid driver's license from a licensing authority in the United States. The department may not impose any additional licensing requirements or additional authorization requirements on a PDD operator.
+    Cross References.  Section 8516 is referred to in section 8517 of this title.
+§ 8517.  Local regulation.
+    (a) Authorization.--A municipality may, by ordinance or resolution, do the following:
+     (1) Permit the use of a personal delivery device on a
+roadway, or shoulder or berm of a roadway, under the jurisdiction of the municipality where the posted speed limit is greater than 25 miles per hour but not greater than 35 miles per hour.
+     (2) Prohibit the use of a personal delivery device on anyroadway, or shoulder or berm of a roadway, or pedestrian area under the jurisdiction of the municipality where the municipality, after consultation with the authorized entity, determines that the operation of the personal delivery device would constitute a hazard.
+    (b) Prohibition.--Except as provided in subsection (a), a municipality may not regulate the operation of a personal delivery device operated in a pedestrian area, roadway, or shoulder or berm of a roadway, under the jurisdiction of the municipality.
+    (c) Construction.--
+     (1) Nothing in this section may be construed to affect theability of a municipality to enforce any law, rule or regulation as it relates to the operation of a personal delivery device in this Commonwealth.
+     (2) Nothing in subsection (a) may be construed to permit amunicipality to authorize the use of a personal delivery device on a roadway, or shoulder or berm of a roadway, under the jurisdiction of the municipality in a manner that conflicts with the operation requirements contained in section 8516
+(relating to operation).
+    (d) Notice required.--An authorized entity shall notify the governing body of the municipality of the authorized entity's intent to operate personal delivery devices within the municipality no less than 30 days prior to the date on which the
+authorized entity commences PDD operations within the municipality.
+Cross References.  Section 8517 is referred to in sections
+8513, 8516, 8522 of this title.
+§ 8518.  Equipment.
+    (a) Prohibition.--No authorized entity may operate a personal delivery device on a roadway, or shoulder or berm of a roadway, or pedestrian area that does not meet the requirements of this section.
+    (b) Minimum equipment standards.--A PDD operated by an authorized entity shall:
+     (1) Have a maximum width of 32 inches.
+     (2) Have a maximum length of 42 inches.
+     (3) Have a maximum height of 72 inches.
+     (4) Be equipped with a braking system that brings the PDDto a complete stop from an initial speed of 25 miles an hour or less.
+     (5) Be equipped with a lamp that emits a beam of whitelight intended to illuminate the personal delivery device's path and is visible from a distance of at least 500 feet to the front and a lamp emitting a red flashing light, light-emitting diode or device visible from a distance of 500 feet to the rear. An authorized entity may supplement the required front lamp with a white flashing lamp, light-emitting diode or similar device to enhance its visibility to other traffic.
+     (6) Be equipped with software, equipment or technologiesto comply with section 8514(b)(2)(v) (relating to application).
+    (c) Identifying markings.--A personal delivery device shall prominently display, in a size and manner determined by the department, the following information:
+     (1) The name of the authorized entity.
+     (2) The unique identification number assigned to the PDDand submitted to the department under section 8514(b)(8).
+     (3) A telephone number of the authorized entity to reporta violation of this title, an accident or an insurance claim.
+    Cross References.  Section 8518 is referred to in section 8516 of this title.
+§ 8519.  Insurance and liability.
+    (a) Required coverage.--An authorized entity shall maintain an insurance policy that includes general liability coverage of not less than $100,000 per incident for damages arising from the operation of the personal delivery device.
+    (b) Sovereign immunity and governmental immunity.--
+Commonwealth agencies and municipalities shall have no duty to make streets, highways or real estate safe for use by personal delivery devices. Commonwealth agencies and municipalities shall be immune from suit by authorized entities and owners of cargo and other items carried on or within a personal delivery device for property damages.
+    Cross References.  Section 8519 is referred to in section 8514 of this title.
+§ 8520.  Enforcement.
+    (a) Revocation of authorization.--Following notice and an opportunity for an administrative hearing, the department may revoke a PDD authorization where a knowing and willful violation of this subchapter occurred that resulted in death, serious bodily injury or property damage or when the authorized entity has demonstrated an inability to operate safely in accordance with this subchapter.
+    (b) Appeal.--An authorized entity shall have the right to appeal PDD authorization suspensions or revocations in accordance with 2 Pa.C.S. Chs. 5 Subch. A (relating to practice and procedure of Commonwealth agencies) and 7 Subch. A (relating to judicial review of Commonwealth agency action).
+    (c) Prohibition.--The department may not suspend or revoke the
+PDD authorization of an authorized entity that self-reports an accident involving the authorized entity's personal delivery devices as required by section 8513(b)(4) (relating to powers of department) where the accident was not the fault of the authorized entity or the authorized entity's PDD operator.
+§ 8521.  Criminal penalties.
+    (a) Penalty.--Except as provided for in subsections (b) and
+(c), an authorized entity that violates a provision of this subchapter shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $25 and no more than $1,000.
+    (b) Unauthorized operation.--Except as provided for in subsection (c), a person that violates section 8512 (relating to general prohibition) shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $500.
+    (c) Suspended or revoked authorization.--A person that knowingly violates section 8512 and whose authorization was suspended or revoked by the department shall be guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of not less than $1,000. § 8522.  Application of title.
+    (a) Applicability.--The regulation of personal delivery devices and authorized entities shall be governed exclusively by this subchapter or an ordinance or resolution adopted by a municipality under section 8517 (relating to local regulation).
+    (b) Exemption.--A personal delivery device shall not be considered a vehicle or a motor vehicle under section 102 (relating to definitions).
+SUBCHAPTER D
+OTHER AUTOMATED VEHICLES
+Sec.
+8531. Highly automated work zone vehicles.
+8532. Platooning.
+    Enactment.  Subchapter D was added November 3, 2022, P.L.1946, No.130, effective in 240 days.
+§ 8531.  Highly automated work zone vehicles.
+    The department or the Pennsylvania Turnpike Commission, as applicable, shall authorize locations in this Commonwealth on a periodic basis where a highly automated work zone vehicle may be deployed. A driver may be required in a highly automated work zone vehicle when used in an active work zone.
+    Cross References.  Section 8531 is referred to in section 8504 of this title.
+§ 8532.  Platooning.
+    (a) General rule.--The department shall be the lead Commonwealth agency on platooning.
+    (b) Exception.--Nonlead vehicles in a platoon shall not be subject to section 3310 (relating to following too closely).
+    (c) Visual identifier.--Each vehicle in a platoon shall be marked with a visual identifier on the power unit. The department, after consultation with the Pennsylvania State Police and the Pennsylvania Turnpike Commission, shall establish the criteria and placement of the visual identifier.
+    (d) Restrictions.--A platoon shall observe the following restrictions:
+     (1) A maximum of three vehicles shall be in a platoon.
+     (2) Vehicles in a platoon shall travel only on limitedaccess highways or interstate highways, unless otherwise permitted by the department or the Pennsylvania Turnpike
+Commission, as applicable.
+     (3) The department or the Pennsylvania TurnpikeCommission, as applicable under paragraph (2), may restrict vehicle movement under this section for operational or safety reasons, including emergency conditions.
+     (4) Except as provided under paragraph (5), a driver shallbe in each vehicle of a platoon.
+     (5) Consistent with applicable Federal or State law andregulations, the lead vehicle may operate with a driver and one nonlead vehicle may operate with an ADS engaged with or without a driver.
+    (e) Plan for general platoon operations.--
+     (1) A person may operate a platoon on a highway of thisCommonwealth if the person files a plan for general platoon operations with the department, in consultation with the Pennsylvania State Police and the Pennsylvania Turnpike Commission, as applicable.
+     (2) If the plan is not approved, rejected or additionalinformation requested by the department within 30 days after receipt of the plan, the plan shall be deemed approved and the person may operate the platoon.
+    Cross References.  Section 8532 is referred to in section 8504 of this title.
+Chapter 85. - Title 75 - VEHICLES	https://www.palegis.us/statutes/consolidated/view-statute?iFrame=true...
+
+Chapter 85. - Title 75 - VEHICLES	https://www.palegis.us/statutes/consolidated/view-statute?iFrame=true...
+
+1 of 23	3/7/2026, 3:22 PM
+
+1 of 23	3/7/2026, 3:22 PM
+
+Chapter 85. - Title 75 - VEHICLES	https://www.palegis.us/statutes/consolidated/view-statute?iFrame=true...
+
+1 of 23	3/7/2026, 3:22 PM
+
